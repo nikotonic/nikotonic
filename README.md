@@ -14,4 +14,3 @@ Construyo sistemas para que agentes de IA piensen y trabajen como yo: cómo deci
 - **criterio**: motor para emular una forma de pensar. Usa reglas versionadas, predicciones selladas antes de conocer la respuesta y un lenguaje compacto para comparar situaciones. *(privado por ahora)*
 - **Romhacks de Super Mario World.**
 
-<!-- BORRADOR: nada de este archivo se fusiona sin la aprobación de Cruz línea por línea. -->
